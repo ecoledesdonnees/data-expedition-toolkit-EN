@@ -1,6 +1,6 @@
 # Data Expedition Toolkit (English)
 
-The data expedition toolkit of Ecole des données is a set of documents that help making the organisation and facilitation of data expeditions much easier. It was born as a desire to streamline the process to set up new data expeditions and allows anyone to be able to pick up the job, were the usual organisers not available. The toolkit is a living document, and will evolve along the way, following the changes in the way we organise data expeditions. Comments and suggestions of improvements are very welcomed. All the documents are shared under CC-BY-SA
+The data expedition toolkit of Ecole des données is a set of documents that helps making the organisation and facilitation of data expeditions much easier. It was born as a desire to streamline the process to set up new data expeditions and allows anyone to be able to pick up the job, were the usual organisers not available. The toolkit is a living document, and will evolve along the way, following the changes in the way we organise data expeditions. Comments and suggestions of improvements are very welcomed. All the documents are shared under CC-BY-SA
 
 The list of document contained in the toolkit is as follows:
 
