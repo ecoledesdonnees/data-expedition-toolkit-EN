@@ -4,7 +4,7 @@ The data expedition toolkit of Ecole des données is a set of documents that hel
 
 The list of document contained in the toolkit is as follows:
 
-**Cheat Sheet:** In 25 questions and some additional notes, this document make sure that you remember the essential steps to making your data expedition a sucess. For events where there is little logistics involved, this two-page document - that can printed into a two-sided sheet - is enough to support the organisers, experienced and new ones alike.
+**Cheat Sheet:** In 25 questions and some additional notes, this document makes sure that you remember the essential steps to making your data expedition a sucess. For events where there is little logistics involved, this two-page document - that can printed into a two-sided sheet - is enough to support the organisers, experienced and new ones alike.
 
 **Organisation:** This spreadsheet serves as a control base for the planning of the data expedition. Everything is in there, split into tabs, from an overview of all the tasks to the attendees listing. Feel free to tweak it to your needs.
 
